@@ -1,9 +1,9 @@
 # Laravel Livewire Standalone Testing
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/fintech-systems/livewire-standalone-testing.svg?style=flat-square)](https://packagist.org/packages/fintech-systems/livewire-standalone-testing)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/fintech-systems/livewire-standalone-testing/run-tests.yml?branch=main&label=tests)](https://github.com/fintech-systems/livewire-standalone-testing/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/fintech-systems/livewire-standalone-testing/php-cs-fixer.yml?branch=main&label=code%20style)](https://github.com/fintech-systems/livewire-standalone-testing/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/fintech-systems/livewire-standalone-testing.svg?style=flat-square)](https://packagist.org/packages/fintech-systems/livewire-standalone-testing)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/fintechsystems/livewire-standalone-testing.svg?style=flat-square)](https://packagist.org/packages/fintechsystems/livewire-standalone-testing)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/fintechsystems/livewire-standalone-testing/run-tests.yml?branch=main&label=tests)](https://github.com/fintechsystems/livewire-standalone-testing/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/fintechsystems/livewire-standalone-testing/php-cs-fixer.yml?branch=main&label=code%20style)](https://github.com/fintechsystems/livewire-standalone-testing/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/fintechsystems/livewire-standalone-testing.svg?style=flat-square)](https://packagist.org/packages/fintechsystems/livewire-standalone-testing)
 
 Boilerplate for Laravel Livewire Standalone component testing. Copied from Spatie's Laravel Livewire Wizard and stripped down to the bare bones.
 
