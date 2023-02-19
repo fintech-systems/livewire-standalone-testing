@@ -1,7 +1,7 @@
 <?php
 
-use Livewire\Livewire;
 use FintechSystems\LivewireStandaloneTesting\Components\LivewireTestComponent;
+use Livewire\Livewire;
 
 it('can render the component', function () {
     $component = Livewire::test(LivewireTestComponent::class);

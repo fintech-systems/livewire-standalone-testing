@@ -2,10 +2,9 @@
 
 namespace FintechSystems\LivewireStandaloneTesting\Tests\TestSupport;
 
-use Illuminate\Support\Facades\View;
+use FintechSystems\LivewireStandaloneTesting\ComponentServiceProvider;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
-use FintechSystems\LivewireStandaloneTesting\ComponentServiceProvider;
 
 class TestCase extends Orchestra
 {
@@ -23,5 +22,4 @@ class TestCase extends Orchestra
             ComponentServiceProvider::class,
         ];
     }
-
 }
